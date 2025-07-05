@@ -287,26 +287,3 @@ docker build -t equation-solver .
 docker run -p 8080:8080 equation-solver
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Run the test suite
-6. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the existing issues
-2. Create a new issue with detailed description
-3. Include error messages and steps to reproduce
-
----
-
-**Happy Coding! 🎉** 
