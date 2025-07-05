@@ -1,0 +1,16 @@
+com/freightfox/model/ExpressionNode.class
+com/freightfox/util/ExpressionParser.class
+com/freightfox/service/EquationService.class
+com/freightfox/model/EvaluateEquationResponse.class
+com/freightfox/model/OperatorNode.class
+com/freightfox/model/EvaluateEquationRequest.class
+com/freightfox/EquationSolverApplication.class
+com/freightfox/model/Equation.class
+com/freightfox/exception/EquationNotFoundException.class
+com/freightfox/model/StoreEquationRequest.class
+com/freightfox/model/VariableNode.class
+com/freightfox/exception/InvalidExpressionException.class
+com/freightfox/model/ConstantNode.class
+com/freightfox/service/EquationServiceImpl.class
+com/freightfox/model/StoreEquationResponse.class
+com/freightfox/controller/EquationController.class
